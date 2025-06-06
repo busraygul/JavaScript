@@ -16,7 +16,7 @@ switch(deger){
     break;
 
     case "3":
-        let yatirilacakTutar = Number(prompt("Yatırılacak tutarı giriniz."));
+        let yatirilacakTutar = Number(prompt("Yatırılacak tutarı giriniz:"));
         bakiye = bakiye + yatirilacakTutar;
     break;
 
