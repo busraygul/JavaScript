@@ -7,7 +7,7 @@
 
 function cube(sayi){
     let sonuc = sayi*sayi*sayi;
-    return sonuc; //returndan sonraki koda erişilemez.
+    return sonuc; //returndan sonraki kodlara erişilemez.
 }
 let donenDeger = cube(2);//return ı yakaladık.
 
